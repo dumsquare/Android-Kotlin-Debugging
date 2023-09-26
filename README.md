@@ -2,7 +2,7 @@
 
 Submitted by: **David Barahona**
 
-Time spent: **.65** hours spent in total
+Time spent: **0.7** hours spent in total
 
 ## Summary
 
